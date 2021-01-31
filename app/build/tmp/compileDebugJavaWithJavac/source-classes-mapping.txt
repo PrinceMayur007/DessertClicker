@@ -1,0 +1,6 @@
+com/example/android/dessert_clicker/DataBindingTriggerClass.java
+ com.example.android.dessert_clicker.DataBindingTriggerClass
+com/example/android/dessert_clicker/BuildConfig.java
+ com.example.android.dessert_clicker.BuildConfig
+com/example/android/dessert_clicker/databinding/ActivityMainBinding.java
+ com.example.android.dessert_clicker.databinding.ActivityMainBinding
