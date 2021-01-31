@@ -11,11 +11,9 @@ earn the big bucks.
 
 The app intends to explain the android lifecycle.
 
-You use this app in the course to explore the Android lifecycle and log messages to
-the Android console (Logcat).
-
 
 Getting Started
 ---------------
 
 1. Download and run the app.
+   You can find it in app > build > outputs > debug-app.apk
